@@ -1,0 +1,2 @@
+# bashkiria_d
+test
